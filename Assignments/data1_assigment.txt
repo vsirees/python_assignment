@@ -1,0 +1,41 @@
+------------------------------------ Task1-----------------------------------------------------
+Task1: import excel  "Jan" sheet file
+Task2 : Display basic checks
+Task3: a> Filter only cloths data and display
+		b> Filter only electronic data and display
+		c> Filter only Foot ware data and display
+		e> Filter cloths and electronic data & display
+Task4: import excel "Jan" and "Feb"  sheets
+Append two dataframe
+
+Task: import excel "Jan" and "Mar"  sheets
+Merge two data frame by "day" and "product"
+		
+-----------------------------------------Task2-------------------------------------------------------
+
+Task1: import excel  "Feb" sheet file
+Task2 : Display basic checks
+Task3: a> Filter only cloths data and display
+		b> Filter only electronic data and display
+		c> Filter only Foot ware data and display
+		e> Filter cloths and electronic data & display
+Task4: import excel "Mar" and "Feb" excel sheets
+Append two dataframe
+
+Task: import excel "Feb" and "Mar"  sheets
+Merge two data frame by "day" and "product"
+		
+------------------------------------------Task3------------------------------------------------------
+
+Task1: import excel  "Feb" sheet file
+Task2 : Display basic checks
+Task3: a> Filter only cloths data and display
+		b> Filter only electronic data and display
+		c> Filter only Foot ware data and display
+		e> Filter cloths and electronic data & display
+Task4: import excel "Mar" and "Feb" and "Mar"  sheets
+Append dataframes
+
+Task: import excel "Feb" and "Mar" and "Jan"  sheets
+Merge data frame by "day" and "product"
+				
